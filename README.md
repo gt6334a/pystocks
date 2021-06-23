@@ -15,9 +15,10 @@ https://github.com/ranaroussi/yfinance
 
 Yahoo Finance has not just pricing data, but also other information such as earnings, cashflow, etc.  Refer to the Quick Start session from the page above for details.
 
-As of Nov 15th, the yfinance module is not able to correctly obtain the financials and quarterly financials data.  There are articles online proclaiming that the Yahoo Finance API was deprecated in 2017 and kind of came back online in 2019 with some changes to the api.  So, while yfinance can be fixed (some contributors have pointed out how to correctly obtain the data), the actual question is whether it is wise to assume that Yahoo Finance will continue.
+####Update
+The issues that were seen on Nov 15th 2020, namely correctly obtaining the financials and quarterly financials data, is now fixed.  
 
-In summary, the yfinance module itself is good, but I can't recommend it until we know more about Yahoo Finance's intentions on it's public API.
+In summary, the yfinance module itself is good and would serve well for portfolio analysis.
 
 
 
