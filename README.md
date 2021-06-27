@@ -15,7 +15,7 @@ https://github.com/ranaroussi/yfinance
 
 Yahoo Finance has not just pricing data, but also other information such as earnings, cashflow, etc.  Refer to the Quick Start session from the page above for details.
 
-####Update
+#### Update
 The issues that were seen on Nov 15th 2020, namely correctly obtaining the financials and quarterly financials data, is now fixed.  
 
 In summary, the yfinance module itself is good and would serve well for portfolio analysis.
